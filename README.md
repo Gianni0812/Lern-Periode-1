@@ -18,7 +18,15 @@ Ich habe alle meine Ziele erfolgreich ermöglicht. Ich war erstaunt wie gut ich 
 
 ## 6.9.2024
 
-- [ ] Programmieren, dass wenn eine Person die nicht gewünschte anforderung (z.B einen Buchstaben anstatt eine Zahl schreibt) erfühlt, das Programm nicht abstürtzt.
+- [x] Programmieren, dass wenn eine Person die nicht gewünschte anforderung (z.B einen Buchstaben anstatt eine Zahl schreibt) erfühlt, das Programm nicht abstürtzt.
 - [ ] Das Programm übersichtlicher gestallten
 - [ ] Programmieren, dass die Person nicht 3 Fragen beantworten muss bis er die Rechnung bekommt, sonder er eine Rechnung hinschreiben kann und das Programm es analysieren und ausrechnen kann.
 - [ ] Probieren einen Taschenrechner vorlage zu erstellen, mit der man die Zahlen anklicken kann.
+
+Ich habe leider nicht alle meine Ziele erreicht, da ich gemerkt habe, das es nicht so einfach ist wie ich gedacht habe. Ich bin aber auch stolz auf mich, da ich es geschaft habe und es einigermassen Funktioniert.
+
+## 13.09.2024
+- [ ] Das Programm übersichtlicher gestallten.
+- [ ] Die Console schöner gestallten
+- [ ] Schauen das man eine Zahl eingeben kann und das Programm analysiert die Zahl und rechnet sie aus.
+       
