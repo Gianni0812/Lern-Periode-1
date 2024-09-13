@@ -26,7 +26,13 @@ Ich habe alle meine Ziele erfolgreich ermöglicht. Ich war erstaunt wie gut ich 
 Ich habe leider nicht alle meine Ziele erreicht, da ich gemerkt habe, das es nicht so einfach ist wie ich gedacht habe. Ich bin aber auch stolz auf mich, da ich es geschaft habe und es einigermassen Funktioniert.
 
 ## 13.09.2024
-- [ ] Das Programm übersichtlicher gestallten.
-- [ ] Die Console schöner gestallten
+- [x] Das Programm übersichtlicher gestallten.
+- [x] Die Console schöner gestallten
 - [ ] Schauen das man eine Zahl eingeben kann und das Programm analysiert die Zahl und rechnet sie aus.
+
+Ich habe ein Ziel nicht erreicht, da es meiner meinug nach zu schwer ist und noch nicht in meinen Kenntinessen vorhanden ist. Ich habe aber das Programm übersichtlicher gestalltet. Ich habe Kommentare geschrieben und habe das programm in der richtigen reihenfolge dargestellt. Ich habe auch die Konsole schöner gestalltet, mit farben. Ich habe jetzt aber das Projekt soweit fertig und würde es somit abschliessen.
+
+## 20.09.2024
+- [ ] Eine Idee für ein neues Projekt
+
        
