@@ -35,15 +35,17 @@ Ich habe ein Ziel nicht erreicht, da es meiner meinug nach zu schwer ist und noc
 ## 20.09.2024
 - [ ] Eine Idee für ein neues Projekt
 
+Ich habe heute doch kein neues Projekt gemacht, ich habe denn Taschenrechner nochmals neu Programiert und verbessert. Nun kann man eine ganze Rechnung auf eine Linie schreiben und das Programm erkänt die Rechnung und rechnet aus.
 
-##Fertiges Projekt
+
+## Fertiges Projekt
 Ich habe einen kleinen Taschenrechner programiert, in dem man eine belibige rechnung mit (+,*,/,-) eingeben kann. Das Programm analysiert die Zahl und rechnet sie dementsprechend aus. Das Projekt sieht wenn z.B. ein Buchstabe anstatt eine Zahl geschrieben wird und macht den Benutzer darauf aufmerksam. Das Projekt lauft ohne fehler und bei allem was man nicht eingeben sollte wird man darauf aufmerksam gemacht und das Program wird wiederholt.
 
 ![Screenshot 2024-09-20 111248](https://github.com/user-attachments/assets/2d72ae34-c523-495f-8a12-14f5c239cefc) ![Screenshot 2024-09-20 111318](https://github.com/user-attachments/assets/0cde4b33-c4e2-448a-ac52-21da94e4cab5)
 
 
 
-##Reflexion
+## Reflexion
 In der ersten Lernperiode habe ich einen Taschenrechner programmiert, und das war echt eine interessante Erfahrung. Am Anfang war es ziemlich schwer, weil ich zwar wusste, was ich machen wollte, aber nicht genau wusste, wie ich es umsetzen sollte. Ich habe viel Hilfe bekommen und viel im Internet und in meinen Lehrmaterialien nachgeschaut.
 
 Nachdem ich eine Weile daran gearbeitet habe, wurde es einfacher, und ich hatte Spaß dabei, neue Funktionen hinzuzufügen. Es war cool zu sehen, wie mein Taschenrechner immer besser wurde.
