@@ -46,7 +46,7 @@ Ich habe einen kleinen Taschenrechner programiert, in dem man eine belibige rech
 
 
 ## Reflexion
-In der ersten Lernperiode habe ich einen Taschenrechner programmiert, und das war echt eine interessante Erfahrung. Am Anfang war es ziemlich schwer, weil ich zwar wusste, was ich machen wollte, aber nicht genau wusste, wie ich es umsetzen sollte. Ich habe viel Hilfe bekommen und viel im Internet und in meinen Lehrmaterialien nachgeschaut.
+In der ersten Lernperiode habe ich einen Taschenrechner programmiert und das war echt eine interessante Erfahrung. Am Anfang war es ziemlich schwer, weil ich zwar wusste, was ich machen wollte, aber nicht genau wusste, wie ich es umsetzen sollte. Ich habe viel Hilfe bekommen und viel im Internet und in meinen Lehrmaterialien nachgeschaut.
 
 Nachdem ich eine Weile daran gearbeitet habe, wurde es einfacher, und ich hatte Spaß dabei, neue Funktionen hinzuzufügen. Es war cool zu sehen, wie mein Taschenrechner immer besser wurde.
 
