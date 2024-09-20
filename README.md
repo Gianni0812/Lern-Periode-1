@@ -42,6 +42,7 @@ Ich habe heute doch kein neues Projekt gemacht, ich habe denn Taschenrechner noc
 Ich habe einen kleinen Taschenrechner programiert, in dem man eine belibige rechnung mit (+,*,/,-) eingeben kann. Das Programm analysiert die Zahl und rechnet sie dementsprechend aus. Das Projekt sieht wenn z.B. ein Buchstabe anstatt eine Zahl geschrieben wird und macht den Benutzer darauf aufmerksam. Das Projekt lauft ohne fehler und bei allem was man nicht eingeben sollte wird man darauf aufmerksam gemacht und das Program wird wiederholt.
 
 ![Screenshot 2024-09-20 111248](https://github.com/user-attachments/assets/2d72ae34-c523-495f-8a12-14f5c239cefc) 
+
 ![Screenshot 2024-09-20 111318](https://github.com/user-attachments/assets/0cde4b33-c4e2-448a-ac52-21da94e4cab5)
 
 
